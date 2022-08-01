@@ -1,0 +1,1 @@
+In order to play the game go to Run.bat located in game01\out\artifacts\game01_jar and edit the file , replace the current path with the path to the levels dir (levelz) and then run the Run file.
